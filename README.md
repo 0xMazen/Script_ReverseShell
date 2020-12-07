@@ -2,4 +2,4 @@
 **Hello everyone**
 Bash script for reverse shell 
 
-[](blob/main/script.PNG)
+[scripts](blob/main/script.PNG)
