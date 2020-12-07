@@ -1,2 +1,4 @@
 # scripts
-all scripts linux&amp;windows
+Bash script for reverse shell 
+
+
